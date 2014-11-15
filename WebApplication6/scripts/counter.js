@@ -20,7 +20,7 @@ var counterButtonOnClick = function () {
     var myTS1 = TS;
     var myTS2 = TS;
     myTS1.Name = "Frank";
-    myTS2.Name = "Holger";
+    myTS2.Name = "Paul";
     button.textContent = seitStartVerstrichenInSekunden;
 
 };
