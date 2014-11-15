@@ -4,6 +4,8 @@ var m = d.getMinutes();
 var s = d.getSeconds();
 var zeit = h + ":" + m + ":" + s;
 
+// Version 0.0.1
+
 function Person(name, vorname, alter) {
     
 }
